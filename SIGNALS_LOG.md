@@ -1,3 +1,17 @@
+### 📅 2025-12-17 (Wednesday)
+**Market Context:** Pre-Market / Early Session
+
+| Asset | Strategy | Signal | Exposure | Confidence (Bull/Bear) |
+| :--- | :--- | :--- | :--- | :--- |
+| **QQQ** | LightGBM (Titan) | 🟢 **STRONG BUY** | **150%** | Bull 0.22 / Bear 0.03 |
+| **NVDA** | Transformer (Sniper) | 🔴 **STRONG SELL** | **0% (Cash)** | Bull 0.13 / Bear 0.73 |
+| **BTC-USD** | Transformer (Venture) | 🟢 **STRONG BUY** | **100%** | Bull 0.77 / Bear 0.13 |
+| **GLD** | Transformer (Hedge) | 🟢 **STRONG BUY** | **200%** | Bull 0.87 / Bear 0.00 |
+
+**Commentary:**
+*   **Conviction Hold:** Signals remain identical to the previous session.
+*   **Crypto Opportunity:** BTC Bull confidence increased (0.70 -> 0.77) despite minor price pullback, suggesting a strong buying opportunity.
+*   **Defensive Stance:** Maintaining 0% exposure in NVDA as structural weakness indicators persist despite minor price action.
 Daedalus Quantitative Strategy Log
 System Status: LIVE
 Engine: Hybrid (LightGBM + Transformer Pro)
