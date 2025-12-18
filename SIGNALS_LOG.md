@@ -1,3 +1,17 @@
+### 📅 2025-12-18 (Thursday)
+**Market Context:** Pre-Market Analysis
+
+| Asset | Strategy | Signal | Exposure | Confidence (Bull/Bear) |
+| :--- | :--- | :--- | :--- | :--- |
+| **QQQ** | LightGBM (Titan) | 🟢 **STRONG BUY** | **150%** | Bull 0.25 / Bear 0.03 |
+| **NVDA** | Transformer (Sniper) | 🔴 **SELL (Tactical)** | **50%** | Bull 0.12 / Bear 0.16 |
+| **BTC-USD** | Transformer (Venture) | 🟢 **STRONG BUY** | **100%** | Bull 0.33 / Bear 0.21 |
+| **GLD** | Transformer (Hedge) | 🟢 **STRONG BUY** | **200%** | Bull 0.95 / Bear 0.00 |
+
+**Commentary:**
+*   **NVDA Re-entry:** Bearish pressure subsided significanty (Bear Conf 0.73 -> 0.16). System increased exposure from 0% to 50% (Trend Following protection mode).
+*   **GLD Dominance:** Highest conviction signal in the portfolio (0.95 Bull). 
+*   **BTC Weakening:** While signal remains Buy, momentum confidence dropped by ~50%. Monitoring for potential reversal.
 ### 📅 2025-12-17 (Wednesday)
 **Market Context:** Pre-Market / Early Session
 
