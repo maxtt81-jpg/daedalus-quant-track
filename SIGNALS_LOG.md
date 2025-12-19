@@ -1,4 +1,3 @@
----
 ### 🏆 WEEKLY PERFORMANCE REVIEW (Dec 15 - Dec 19)
 **Status:** Alpha Generated & Verified.
 
@@ -17,7 +16,9 @@
 *   **QQQ & BTC:** Held trend support. No whipsaws.
 *   **Verdict:** Models correctly identified "Risk-Off" in single stocks (NVDA) while maintaining "Risk-On" in macro assets (Gold/Crypto).
 
----
+
+
+
 ### 📅 2025-12-19 (Friday)
 **Market Context:** Pre-Market. Weekend Positioning.
 
