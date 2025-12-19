@@ -1,3 +1,17 @@
+### 📅 2025-12-19 (Friday)
+**Market Context:** Pre-Market. Weekend Positioning.
+
+| Asset | Strategy | Signal | Exposure | Confidence (Bull/Bear) |
+| :--- | :--- | :--- | :--- | :--- |
+| **QQQ** | LightGBM (Titan) | 🟢 **BUY** | **120%** | Bull 0.66 / Bear 0.46 |
+| **NVDA** | Transformer (Sniper) | 🟢 **STRONG BUY** | **120%** | Bull 0.24 / Bear 0.16 |
+| **BTC-USD** | Transformer (Venture) | 🟢 **BUY** | **100%** | Bull 0.22 / Bear 0.17 |
+| **GLD** | Transformer (Hedge) | 🟢 **STRONG BUY** | **200%** | Bull 0.81 / Bear 0.00 |
+
+**Commentary:**
+*   **NVDA Pivot:** Major signal shift from SELL (Defense) to STRONG BUY (Offense). Algorithm detects end of short-term weakness. Increasing exposure to 1.2x.
+*   **Full Risk-On:** All tracked assets are in Buy territory going into the weekend.
+*   **GLD Conviction:** Remains the strongest signal (Zero Bearish confidence) in the portfolio.
 ### 📅 2025-12-18 (Thursday)
 **Market Context:** Pre-Market Analysis
 
