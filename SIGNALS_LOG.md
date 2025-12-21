@@ -9,12 +9,13 @@
 | **GLD** | **STRONG BUY** | **200%** | UP | **Bull 0.86** / Bear 0.00 |
 | **TLT** | **STRONG BUY** | **100%** | UP | Bull 4.95 / Bear 1.93 |
 
-**Commentary:**
-*   **The Macro Trinity:** Синхронный сигнал `STRONG BUY` по **TLT + GLD + QQQ**. Система делает ставку на снижение ставок/доходности облигаций. Это идеальная среда для Золота и Техов.
-*   **Alpha Divergence:** NVDA исключена из портфеля (Cash), несмотря на рост QQQ. Алгоритм проводит ротацию из "фишек 2024 года" в более широкий рынок.
-*   **Crypto Conviction:** BTC показывает аномально высокую уверенность (**0.94**). Несмотря на технический даунтренд (<SMA200), модель видит идеальную точку входа (Deep Value).
-### 🏆 WEEKLY PERFORMANCE REVIEW (Dec 15 - Dec 19)
-**Status:** Alpha Generated & Verified.
+DAEDALUS: ORACLE v2.0 SIGNAL INJECTION [2025-12-21]
+
+- Generated D1 signals for Monday (22.12.2025).
+- Detected "Macro Trinity" pattern: TLT + GLD + QQQ (Strong Buy).
+- Critical Divergence: QQQ (Bull) vs NVDA (Bear).
+- High Conviction: BTC (0.94) and GLD (0.86).
+- System Status: READY FOR DEPLOYMENT.
 
 **1. The "Sniper" Trade (NVDA)**
 *   **Signal (Dec 16-17):** `STRONG SELL (Cash)` when price was ~$177.
