@@ -1,13 +1,18 @@
 ### 📅 2025-12-21 (Sunday)
-**Market Context:** Pre-Market (Monday 22.12). VIX 14.91 (Normal/Risk-On).
+**Market Context:** Pre-Market (Monday 22.12). VIX 14.91 (Risk-On). Macro Trinity Detected.
 
-| Asset | Signal | Exposure | Trend | Confidence (Bull/Bear) |
+| Asset | Strategy | Signal | Exposure | Confidence (Bull/Bear) |
 | :--- | :--- | :--- | :--- | :--- |
-| **QQQ** | **STRONG BUY** | **150%** | UP | Bull 0.41 / Bear 0.07 |
-| **NVDA** | **STRONG SELL** | **0%** | UP | Bull 0.28 / Bear 0.50 |
-| **BTC** | **STRONG BUY** | **100%** | DOWN | **Bull 0.94** / Bear 0.03 |
-| **GLD** | **STRONG BUY** | **200%** | UP | **Bull 0.86** / Bear 0.00 |
-| **TLT** | **STRONG BUY** | **100%** | UP | Bull 4.95 / Bear 1.93 |
+| **QQQ** | LightGBM (Titan) | 🟢 **STRONG BUY** | 150% | Bull 0.41 / Bear 0.07 |
+| **NVDA** | Transformer (Sniper) | 🔴 **STRONG SELL** | 0% | Bull 0.28 / Bear 0.50 |
+| **BTC-USD** | Transformer (Venture) | 🟢 **STRONG BUY** | 100% | Bull 0.94 / Bear 0.03 |
+| **GLD** | Transformer (Hedge) | 🟢 **STRONG BUY** | 200% | Bull 0.86 / Bear 0.00 |
+| **TLT** | LightGBM (Defense) | 🟢 **STRONG BUY** | 100% | Bull 4.95 / Bear 1.93 |
+
+**Commentary:**
+*   **Macro Trinity:** A rare synchronization event — **TLT (Bonds) + GLD (Gold) + QQQ (Tech)** are flashing `STRONG BUY` simultaneously. Betting on yield compression and an "Everything Rally".
+*   **Alpha Rotation:** Critical divergence within Tech. Capital is rotating out of **NVDA** (Strong Sell) into the broader **QQQ** index.
+*   **Crypto Conviction:** Bitcoin shows anomalously high confidence (Bull 0.94) — the model identifies a "Deep Value" bottom and the start of a new growth phase.
 
 DAEDALUS: ORACLE v2.0 SIGNAL INJECTION [2025-12-21]
 
