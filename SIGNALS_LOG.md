@@ -1,6 +1,5 @@
-====================================================================
-      📝 DAILY SIGNAL REPORT | 2025-12-23
-=====================================================================
+📝 DAILY SIGNAL REPORT | 2025-12-23
+---------------------------------------------------------------------
 ASSET      SIGNAL          EXPOSURE   TREND    CONFIDENCE (Bull/Bear)
 ---------------------------------------------------------------------
 QQQ        STRONG BUY      150%       UP       Bull 0.47 / Bear 0.07
@@ -8,7 +7,7 @@ NVDA       STRONG SELL     0%         UP       Bull 0.08 / Bear 0.59
 BTC-USD    STRONG SELL     0%         DOWN     Bull 0.03 / Bear 0.05
 GLD        STRONG BUY      200%       UP       Bull 0.86 / Bear 0.00
 TLT        STRONG BUY      100%       UP       Bull 3.53 / Bear 0.24
-======================================================================
+---------------------------------------------------------------------
 ### 📅 2025-12-21 (Sunday)
 **Market Context:** Pre-Market (Monday 22.12). VIX 14.91 (Risk-On). Macro Trinity Detected.
 
