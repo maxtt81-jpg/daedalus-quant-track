@@ -1,3 +1,19 @@
+# 📝 DAILY SIGNAL REPORT — 2025‑12‑24
+
+| ASSET    | SIGNAL       | EXPOSURE | TREND | CONFIDENCE (Bull/Bear) |
+|----------|--------------|----------|--------|--------------------------|
+| **QQQ**      | STRONG BUY   | 150%     | UP     | 0.41 / 0.08 |
+| **NVDA**     | NEUTRAL      | 0%       | UP     | 0.33 / 0.31 |
+| **BTC‑USD**  | STRONG SELL  | 0%       | DOWN   | 0.27 / 0.63 |
+| **GLD**      | STRONG BUY   | 200%     | UP     | 0.75 / 0.00 |
+| **TLT**      | STRONG BUY   | 100%     | UP     | 3.96 / 0.22 |
+
+---
+
+### 📉 Market Pulse (VIX)
+- **VIX Level:** 14.00  
+- **Market Status:** Normal (Low Volatility Environment)
+
 ###📝 DAILY SIGNAL REPORT | 2025-12-23
 ---------------------------------------------------------------------
 ASSET      SIGNAL          EXPOSURE   TREND    CONFIDENCE (Bull/Bear)
