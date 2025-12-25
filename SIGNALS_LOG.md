@@ -1,3 +1,19 @@
+### 📅 2025-12-25 (Thursday)
+**Market Context:** Christmas Day Analysis for Friday/Next Week. VIX at extreme lows (13.47), signaling complacency/risk-on.
+
+| Asset | Strategy | Signal | Exposure | Trend | Confidence (Bull/Bear) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **QQQ** | LightGBM (Titan) | 🟢 **STRONG BUY** | 150% | UP | Bull 0.44 / Bear 0.09 |
+| **NVDA** | Transformer (Sniper) | 🔴 **STRONG SELL** | 0% | UP | Bull 0.17 / **Bear 0.63** |
+| **BTC** | Transformer (Venture) | 🟢 **STRONG BUY** | 100% | DOWN | Bull 0.63 / Bear 0.13 |
+| **GLD** | Transformer (Hedge) | 🟢 **STRONG BUY** | 200% | UP | Bull 0.80 / Bear 0.00 |
+| **TLT** | LightGBM (Defense) | 🟢 **STRONG BUY** | 100% | UP | Bull 4.71 / Bear 0.21 |
+
+**Commentary:**
+*   **The "Macro Trinity" signal holds firm.** The synchronized STRONG BUY on TLT, GLD, and QQQ continues, reinforcing a bullish stance on rate-sensitive assets.
+*   **NVDA divergence intensifies.** Bearish conviction has increased significantly (0.50 -> 0.63), suggesting accelerating capital rotation out of the former market leader. The decision to stay in cash on this asset is validated.
+*   **BTC and GLD maintain high conviction,** confirming the system's dual approach of pursuing high-risk alpha (BTC) while hedging with hard assets (GLD).
+
 # 📝 DAILY SIGNAL REPORT — 2025‑12‑24
 
 | ASSET    | SIGNAL       | EXPOSURE | TREND | CONFIDENCE (Bull/Bear) |
