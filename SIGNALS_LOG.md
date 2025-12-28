@@ -1,3 +1,15 @@
+------------------------------------------------------------
+| Date | Asset | Signal | Lev | Trend | Score (Bull/Bear) |
+|---|---|---|---|---|---|
+| 2025-12-28 | **QQQ** | 🟢🚀 STRONG BUY | `1.5x` | 📈 | 14.02/5.89 |
+| 2025-12-28 | **NVDA** | 🔴🔻 STRONG SELL | `0.0x` | 📈 | 2.14/9.64 |
+| 2025-12-28 | **BTC-USD** | ⚪ NEUTRAL | `0.0x` | 📉 | 16.30/14.28 |
+| 2025-12-28 | **GLD** | 🟢 BUY | `1.0x` | 📈 | 17.14/14.07 |
+| 2025-12-28 | **TLT** | 🟢🚀 STRONG BUY | `1.0x` | 📈 | 4.59/2.61 |
+------------------------------------------------------------
+VIX Level: 13.60
+   ✅ Market Status: Normal
+   
 ### 📅 2025-12-25 (Thursday)
 **Market Context:** Christmas Day Analysis for Friday/Next Week. VIX at extreme lows (13.47), signaling complacency/risk-on.
 
